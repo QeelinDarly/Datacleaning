@@ -50,6 +50,14 @@ pyinstaller -F datawash.py
 
 You can use it now, and executable program is in file dist.
 
+The first buttom, you can read excel file path by it.
+
+The second button, you can choose the path to save your result file. The result file name is result.xlsx
+
+You can select the exact number of characters in text, the program will merge your store name by it.
+
+If you just want to use pan category mapping, you can blank the text. But if you want to use datawash, you must fill it.
+
 # 使用方法
 在你编译它之前，你需要有正确的环境。你需要有python3和它的一系列库，如numpy、pandas、tkinter、ahocorasick-python、openpyxl。
 
@@ -69,3 +77,11 @@ pyinstaller -F datawash.py
 ```
 
 你能在编译之后，在你的目录下的dist目录中，找到可执行程序，并使用它。
+
+读取EXCEL路径按钮可以读取你要清洗的EXCEL路径。
+
+结果存放按钮可以设定你要存放结果的位置。结果的文件名为result.xlsx
+
+你能选择你想要精确的字符数，存放在精确字符数的框内，程序会根据你的精确字符数，合并你的店名。
+
+如果你只想使用泛类目映射，你可以将精确字符数的框空出。但是如果你要使用数据清洗，就必须填写这个框。
