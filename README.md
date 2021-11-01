@@ -1,5 +1,5 @@
-# Datawash
-datawash tools for Business analysis
+# Datacleaning
+datacleaning tools for Business analysis
 
 This program is made for Vicky's work. You can use it, too.
 
@@ -45,7 +45,7 @@ And after that, you can build it by this:
 
 ```python
 pip install pyinstaller
-pyinstaller -F datawash.py
+pyinstaller -F datacleaning.py
 ```
 
 You can use it now, and executable program is in file dist.
@@ -56,7 +56,7 @@ The second button, you can choose the path to save your result file. The result 
 
 You can select the exact number of characters in text, the program will merge your store name by it.
 
-If you just want to use pan category mapping, you can blank the text. But if you want to use datawash, you must fill it.
+If you just want to use pan category mapping, you can blank the text. But if you want to use datacleaning, you must fill it.
 
 # 使用方法
 在你编译它之前，你需要有正确的环境。你需要有python3和它的一系列库，如numpy、pandas、tkinter、ahocorasick-python、openpyxl。
@@ -73,7 +73,7 @@ pip install openpyxl
 
 ```python
 pip install pyinstaller
-pyinstaller -F datawash.py
+pyinstaller -F datacleaning.py
 ```
 
 你能在编译之后，在你的目录下的dist目录中，找到可执行程序，并使用它。
