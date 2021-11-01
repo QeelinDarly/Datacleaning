@@ -1,3 +1,0 @@
-([('datawash',
-   '/Users/linjian/Desktop/谐云资料/python/数据清洗10.30.15/dist/datawash',
-   'EXECUTABLE')],)
