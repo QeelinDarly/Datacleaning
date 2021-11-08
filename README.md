@@ -1,6 +1,8 @@
 # Datacleaning
 datacleaning tools for Business analysis
 
+This program is made for dealing the problem of the same name of store merging, and counting numbers.
+
 This program is made for Vicky's work. You can use it, too.
 
 # Attention
@@ -43,6 +45,8 @@ If you just want to use pan category mapping, you can blank the text. But if you
 
 # 数据清洗
 该数据清洗工具是为了商业分析
+
+这个程序是为了解决合并问题。将连锁关系的店铺名合并为一条，并统计它的店铺数。
 
 这个程序是为了Vicky的工作而开发的，公开代码后，您也可以免费使用它。
 
